@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012 The CyanogenMod Project
+<!-- Copyright (C) 2012 The ProBam Project
 
      Licensed under the GNU GPLv2 license
 
@@ -7,7 +7,7 @@
      or at https://www.gnu.org/licenses/gpl-2.0.txt
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">CM Oppdateringsapp</string>
+    <string name="app_name">ProBam Oppdateringsapp</string>
     <string name="display_name">Oppdateringer</string>
     <string name="unknown">Ukjent</string>
     <string name="menu_refresh">Oppdater</string>
@@ -83,14 +83,14 @@
     <string name="no_changelog_alert">Endringslogg ikke tilgjengelig</string>
     <string name="failed_to_load_changelog">Kunne ikke hente endringsloggen</string>
     <string name="changelog_dialog_title">Endringslogg</string>
-    <string name="extension_label">CyanogenMod Oppdateringer</string>
+    <string name="extension_label">ProBam Oppdateringer</string>
     <string name="extension_description">Viser antall tilgjengelige oppdateringer.</string>
     <plurals name="extension_status">
         <item quantity="one"><xliff:g id="count">%d</xliff:g> oppdatering</item>
         <item quantity="other"><xliff:g id="count">%d</xliff:g> oppdateringer</item>
     </plurals>
     <plurals name="extension_expandedTitle">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> CyanogenMod oppdatering</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> CyanogenMod oppdateringer</item>
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> ProBam oppdatering</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> ProBam oppdateringer</item>
     </plurals>
 </resources>

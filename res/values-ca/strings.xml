@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012 The CyanogenMod Project
+<!-- Copyright (C) 2012 The ProBam Project
 
      Licensed under the GNU GPLv2 license
 
@@ -8,7 +8,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">Actualitzador CM</string>
+    <string name="app_name">Actualitzador ProBam</string>
     <string name="display_name">Actualitzacions</string>
     <string name="unknown">Desconegut</string>
 
@@ -102,14 +102,14 @@
     <string name="changelog_dialog_title">Registre de canvis</string>
     <string name="loading_changelog">Carregant\u2026</string>
 
-    <string name="extension_label">Actualitzacions CyanogenMod</string>
+    <string name="extension_label">Actualitzacions ProBam</string>
     <string name="extension_description">Mostra el nombre de noves actualitzacions disponibles.</string>
     <plurals name="extension_status">
         <item quantity="one"><xliff:g id="count">%d</xliff:g> actualització</item>
         <item quantity="other"><xliff:g id="count">%d</xliff:g> actualitzacions</item>
     </plurals>
     <plurals name="extension_expandedTitle">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> actualització CyanogenMod</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> actualitzacions CyanogenMod</item>
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> actualització ProBam</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> actualitzacions ProBam</item>
     </plurals>
 </resources>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012 The CyanogenMod Project
+<!-- Copyright (C) 2012 The ProBam Project
 
      Licensed under the GNU GPLv2 license
 
@@ -9,7 +9,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- General strings -->
-    <string name="app_name">Обновление CyanogenMod</string>
+    <string name="app_name">Обновление ProBam</string>
     <string name="display_name">Обновления</string>
     <string name="unknown">Неизвестный</string>
 
@@ -28,7 +28,7 @@
 
     <!-- Settings strings -->
     <string name="available_updates_title">Доступные обновления</string>
-    <string name="no_available_updates_intro">Установлена последняя версия CyanogenMod. Нажмите кнопку «Проверить», чтобы выполнить поиск доступных обновлений.</string>
+    <string name="no_available_updates_intro">Установлена последняя версия ProBam. Нажмите кнопку «Проверить», чтобы выполнить поиск доступных обновлений.</string>
     <string name="new_update_summary">Новое</string>
     <string name="downloaded_update_summary">Загружено</string>
     <string name="installed_update_summary">Установлено</string>
@@ -57,7 +57,7 @@
     <string name="no_updates_found">Обновлений не найдено</string>
     <string name="update_check_failed">Не удалось выполнить поиск обновлений. Проверьте подключение к Интернету и повторите попытку.</string>
     <string name="not_new_updates_found_ticker">Доступно обновление системы</string>
-    <string name="not_new_updates_found_title">Обновления CyanogenMod</string>
+    <string name="not_new_updates_found_title">Обновления ProBam</string>
     <plurals name="not_new_updates_found_body">
         <item quantity="one">Доступно <xliff:g id="count">%d</xliff:g> обновление системы</item>
         <item quantity="few">Доступно <xliff:g id="count">%d</xliff:g> обновления системы</item>
@@ -113,7 +113,7 @@
     <string name="loading_changelog">Загрузка\u2026</string>
 
     <!-- DashClock extension strings -->
-    <string name="extension_label">Обновления CyanogenMod</string>
+    <string name="extension_label">Обновления ProBam</string>
     <string name="extension_description">Показывает количество доступных обновлений</string>
     <plurals name="extension_status">
         <item quantity="one">Доступно <xliff:g id="count">%d</xliff:g> обновление системы</item>
@@ -121,8 +121,8 @@
         <item quantity="other">Доступно <xliff:g id="count">%d</xliff:g> обновлений системы</item>
     </plurals>
     <plurals name="extension_expandedTitle">
-        <item quantity="one">Доступно <xliff:g id="count">%d</xliff:g> обновление CyanogenMod</item>
-        <item quantity="few">Доступно <xliff:g id="count">%d</xliff:g> обновления CyanogenMod</item>
-        <item quantity="other">Доступно <xliff:g id="count">%d</xliff:g> обновлений CyanogenMod</item>
+        <item quantity="one">Доступно <xliff:g id="count">%d</xliff:g> обновление ProBam</item>
+        <item quantity="few">Доступно <xliff:g id="count">%d</xliff:g> обновления ProBam</item>
+        <item quantity="other">Доступно <xliff:g id="count">%d</xliff:g> обновлений ProBam</item>
     </plurals>
 </resources>

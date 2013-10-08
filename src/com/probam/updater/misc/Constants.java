@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2012 The CyanogenMod Project
+ * Copyright (C) 2012 The ProBam Project
  *
  * * Licensed under the GNU GPLv2 license
  *
@@ -7,11 +7,11 @@
  * or at https://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-package com.cyanogenmod.updater.misc;
+package com.probam.updater.misc;
 
 public class Constants {
     // Download related
-    public static final String UPDATES_FOLDER = "cmupdater";
+    public static final String UPDATES_FOLDER = "probamupdater";
     public static final String DOWNLOAD_ID = "download_id";
     public static final String DOWNLOAD_MD5 = "download_md5";
 

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012 The CyanogenMod Project
+<!-- Copyright (C) 2012 The ProBam Project
 
      Licensed under the GNU GPLv2 license
 
@@ -107,15 +107,15 @@
     <string name="changelog_dialog_title">更新履歴</string>
 
     <!-- DashClock extension strings -->
-    <string name="extension_label">CyanogenMod アップデート</string>
+    <string name="extension_label">ProBam アップデート</string>
     <string name="extension_description">利用できる新しいアップデートの数を表示する。</string>
     <plurals name="extension_status">
         <item quantity="one"><xliff:g id="count">%d</xliff:g> 個のアップデート</item>
         <item quantity="other"><xliff:g id="count">%d</xliff:g> 個のアップデート</item>
     </plurals>
     <plurals name="extension_expandedTitle">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> 個の CyanogenMod アップデート</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> 個の CyanogenMod アップデート</item>
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> 個の ProBam アップデート</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> 個の ProBam アップデート</item>
     </plurals>
 
 </resources>

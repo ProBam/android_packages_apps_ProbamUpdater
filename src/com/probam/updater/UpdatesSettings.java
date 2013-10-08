@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2012 The CyanogenMod Project (DvTonder)
+ * Copyright (C) 2012 The ProBam Project (DvTonder)
  *
  * * Licensed under the GNU GPLv2 license
  *
@@ -7,7 +7,7 @@
  * or at https://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-package com.cyanogenmod.updater;
+package com.probam.updater;
 
 import android.app.ActionBar;
 import android.app.AlertDialog;
@@ -41,13 +41,13 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.cyanogenmod.updater.misc.Constants;
-import com.cyanogenmod.updater.misc.State;
-import com.cyanogenmod.updater.misc.UpdateInfo;
-import com.cyanogenmod.updater.receiver.DownloadReceiver;
-import com.cyanogenmod.updater.service.UpdateCheckService;
-import com.cyanogenmod.updater.utils.UpdateFilter;
-import com.cyanogenmod.updater.utils.Utils;
+import com.probam.updater.misc.Constants;
+import com.probam.updater.misc.State;
+import com.probam.updater.misc.UpdateInfo;
+import com.probam.updater.receiver.DownloadReceiver;
+import com.probam.updater.service.UpdateCheckService;
+import com.probam.updater.utils.UpdateFilter;
+import com.probam.updater.utils.Utils;
 
 import java.io.File;
 import java.io.IOException;
@@ -588,7 +588,7 @@ public class UpdatesSettings extends PreferenceActivity implements
         mUpdatesList.removeAll();
 
         // Convert the installed version name to the associated filename
-        String installedZip = "cm-" + Utils.getInstalledVersion() + ".zip";
+        String installedZip = Utils.getInstalledVersion() + ".zip";
 
         // Add the updates
         for (UpdateInfo ui : updates) {

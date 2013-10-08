@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2012 The CyanogenMod Project
+ * Copyright (C) 2012 The ProBam Project
  *
  * * Licensed under the GNU GPLv2 license
  *
@@ -7,13 +7,13 @@
  * or at https://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-package com.cyanogenmod.updater.receiver;
+package com.probam.updater.receiver;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 
-import com.cyanogenmod.updater.service.CMDashClockExtension;
+import com.probam.updater.service.CMDashClockExtension;
 
 public class CheckFinishReceiver extends BroadcastReceiver {
     @Override

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012 The CyanogenMod Project
+<!-- Copyright (C) 2012 The ProBam Project
 
      Licensed under the GNU GPLv2 license
 
@@ -9,7 +9,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- General strings -->
-    <string name="app_name">CyanogenMod-Updater</string>
+    <string name="app_name">ProBam-Updater</string>
     <string name="display_name">Updates</string>
     <string name="unknown">Unbekannt</string>
 
@@ -113,14 +113,14 @@
     <string name="loading_changelog">Wird geladen\u2026</string>
 
     <!-- DashClock extension strings -->
-    <string name="extension_label">CyanogenMod-Updates</string>
-    <string name="extension_description">Zeigt die Anzahl der verfügbaren CM-Updates an.</string>
+    <string name="extension_label">ProBam-Updates</string>
+    <string name="extension_description">Zeigt die Anzahl der verfügbaren ProBam-Updates an.</string>
     <plurals name="extension_status">
         <item quantity="one"><xliff:g id="count">%d</xliff:g> Update</item>
         <item quantity="other"><xliff:g id="count">%d</xliff:g> Updates</item>
     </plurals>
     <plurals name="extension_expandedTitle">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> CyanogenMod-Update</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> CyanogenMod-Updates</item>
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> ProBam-Update</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> ProBam-Updates</item>
     </plurals>
 </resources>

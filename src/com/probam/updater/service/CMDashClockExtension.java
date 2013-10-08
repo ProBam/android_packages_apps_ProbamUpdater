@@ -1,5 +1,5 @@
 /*
- * Copyright (C) 2012 The CyanogenMod Project
+ * Copyright (C) 2012 The ProBam Project
  *
  * * Licensed under the GNU GPLv2 license
  *
@@ -7,17 +7,17 @@
  * or at https://www.gnu.org/licenses/gpl-2.0.txt
  */
 
-package com.cyanogenmod.updater.service;
+package com.probam.updater.service;
 
 import android.content.Intent;
 import android.content.res.Resources;
 import android.text.TextUtils;
 import android.util.Log;
 
-import com.cyanogenmod.updater.R;
-import com.cyanogenmod.updater.UpdatesSettings;
-import com.cyanogenmod.updater.misc.State;
-import com.cyanogenmod.updater.misc.UpdateInfo;
+import com.probam.updater.R;
+import com.probam.updater.UpdatesSettings;
+import com.probam.updater.misc.State;
+import com.probam.updater.misc.UpdateInfo;
 import com.google.android.apps.dashclock.api.DashClockExtension;
 import com.google.android.apps.dashclock.api.ExtensionData;
 
@@ -28,7 +28,7 @@ import java.util.LinkedList;
 public class CMDashClockExtension extends DashClockExtension {
     private static final String TAG = "CMDashClockExtension";
 
-    public static final String ACTION_DATA_UPDATE = "com.cyanogenmod.updater.action.DASHCLOCK_DATA_UPDATE";
+    public static final String ACTION_DATA_UPDATE = "com.probam.updater.action.DASHCLOCK_DATA_UPDATE";
 
     private static final int MAX_BODY_ITEMS = 3;
 

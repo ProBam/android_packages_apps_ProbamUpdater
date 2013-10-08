@@ -1,6 +1,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <string name="app_name">"Actualizări CM"</string>
+    <string name="app_name">"Actualizări ProBam"</string>
     <string name="display_name">Actualizări"</string>
     <string name="unknown">"Necunoscut"</string>
     <string name="menu_refresh">"Reîmprospătare"</string>

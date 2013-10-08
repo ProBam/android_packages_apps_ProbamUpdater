@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012 The CyanogenMod Project
+<!-- Copyright (C) 2012 The ProBam Project
 
      Licensed under the GNU GPLv2 license
 
@@ -84,14 +84,14 @@
     <string name="no_changelog_alert">Ingen ändringslogg tillgänglig</string>
     <string name="failed_to_load_changelog">Kan inte ladda ändringsloggen</string>
     <string name="changelog_dialog_title">Ändringslogg</string>
-    <string name="extension_label">CyanogenModuppdateringar</string>
+    <string name="extension_label">ProBamuppdateringar</string>
     <string name="extension_description">Visar antalet tillgängliga uppdateringar.</string>
     <plurals name="extension_status">
         <item quantity="one"><xliff:g id="count">%d</xliff:g> uppdatering</item>
         <item quantity="other"><xliff:g id="count">%d</xliff:g> uppdateringar</item>
     </plurals>
     <plurals name="extension_expandedTitle">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> CyanogenModuppdatering</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> CyanogenModuppdateringar</item>
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> ProBamuppdatering</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> ProBamuppdateringar</item>
     </plurals>
 </resources>

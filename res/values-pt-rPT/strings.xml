@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012 The CyanogenMod Project
+<!-- Copyright (C) 2012 The ProBam Project
 
      Licensed under the GNU GPLv2 license
 
@@ -7,7 +7,7 @@
      or at https://www.gnu.org/licenses/gpl-2.0.txt
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">actualizador CM</string>
+    <string name="app_name">actualizador ProBam</string>
     <string name="unknown">Desconhecido</string>
     <string name="menu_refresh">Actualizar</string>
     <string name="menu_delete">Eliminar</string>
@@ -76,14 +76,14 @@
     <string name="changelog_dialog_title">Registro de mudanças</string>
     <string name="display_name">actualizações</string>
     <string name="data_connection_required">Uma ligação de dados é necessária</string>
-    <string name="extension_label">actualizações CyanogenMod</string>
+    <string name="extension_label">actualizações ProBam</string>
     <string name="extension_description">Exibir o número de actualizações disponíveis</string>
     <plurals name="extension_status">
         <item quantity="one"><xliff:g id="count" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">%d</xliff:g> actualização</item>
         <item quantity="other"><xliff:g id="count" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">%d</xliff:g> actualizações</item>
     </plurals>
     <plurals name="extension_expandedTitle">
-        <item quantity="one"><xliff:g id="count" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">%d</xliff:g> actualização CyanogenMod</item>
-        <item quantity="other"><xliff:g id="count" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">%d</xliff:g> actualizações CyanogenMod</item>
+        <item quantity="one"><xliff:g id="count" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">%d</xliff:g> actualização ProBam</item>
+        <item quantity="other"><xliff:g id="count" xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">%d</xliff:g> actualizações ProBam</item>
     </plurals>
 </resources>

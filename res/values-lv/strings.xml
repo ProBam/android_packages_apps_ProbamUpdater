@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Copyright (C) 2012, 2013 The CyanogenMod Project
+<!-- Copyright (C) 2012, 2013 The ProBam Project
 
      Licensed under the GNU GPLv2 license
 
@@ -7,7 +7,7 @@
      or at https://www.gnu.org/licenses/gpl-2.0.txt
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="app_name">CM Atjauninātājs</string>
+    <string name="app_name">ProBam Atjauninātājs</string>
     <string name="display_name">Atjauninājumi</string>
     <string name="unknown">Nezināms</string>
     <string name="menu_refresh">Atsvaidzināt</string>
@@ -84,14 +84,14 @@
     <string name="no_changelog_alert">Nav pieejams izmaiņu žurnāls</string>
     <string name="failed_to_load_changelog">Neizdevās ielādēt izmaiņu žurnālu</string>
     <string name="changelog_dialog_title">Izmaiņu žurnāls</string>
-    <string name="extension_label">CyanogenMod Atjauninājumi</string>
+    <string name="extension_label">ProBam Atjauninājumi</string>
     <string name="extension_description">Parāda pieejamo jauno atjauninājumu skaitu.</string>
     <plurals name="extension_status">
         <item quantity="one"><xliff:g id="count">%d</xliff:g> atjauninājums</item>
         <item quantity="other"><xliff:g id="count">%d</xliff:g> atjauninājumi</item>
     </plurals>
     <plurals name="extension_expandedTitle">
-        <item quantity="one"><xliff:g id="count">%d</xliff:g> CyanogenMod atjauninājums</item>
-        <item quantity="other"><xliff:g id="count">%d</xliff:g> CyanogenMod atjauninājumi</item>
+        <item quantity="one"><xliff:g id="count">%d</xliff:g> ProBam atjauninājums</item>
+        <item quantity="other"><xliff:g id="count">%d</xliff:g> ProBam atjauninājumi</item>
     </plurals>
 </resources>

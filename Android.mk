@@ -27,7 +27,7 @@ LOCAL_MODULE_TAGS := optional
 LOCAL_SRC_FILES := $(call all-java-files-under, src)
 LOCAL_STATIC_JAVA_LIBRARIES := dashclockapi
 
-LOCAL_PACKAGE_NAME := CMUpdater
+LOCAL_PACKAGE_NAME := ProbamUpdater
 
 LOCAL_PROGUARD_FLAGS := -include $(LOCAL_PATH)/proguard.flags
 
